@@ -43,7 +43,7 @@ const Bmi = () => {
 const styles = StyleSheet.create({
     container: {
         paddingVertical: 20,
-        width: 'auto',
+        width: '50%',
         backgroundColor: 'aquamarine',
         alignItems: 'center',
         justifyContent: 'center',
